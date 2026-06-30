@@ -31,6 +31,10 @@ public:
 
             pq.pop();
 
+            if(x == m-1 && y == n-1) {
+                return diff;
+            }
+
             for(auto& dir: directions) {
 
                 int x_ = x + dir[0];
