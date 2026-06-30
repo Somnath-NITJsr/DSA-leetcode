@@ -11,6 +11,7 @@
 | [0875-koko-eating-bananas](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Two Pointers
@@ -26,11 +27,13 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
