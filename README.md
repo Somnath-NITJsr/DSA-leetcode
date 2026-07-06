@@ -58,12 +58,14 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0994-rotting-oranges](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -141,9 +143,14 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 <!---LeetCode Topics End-->
