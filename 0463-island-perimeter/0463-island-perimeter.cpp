@@ -2,14 +2,9 @@ class Solution {
 public:
     int m, n;
     int dfs(vector<vector<int>>& grid, int i, int j) {
-        if(i < 0 || i >= m || j < 0 || j >= n) {
+        if(i < 0 || i >= m || j < 0 || j >= n || grid[i][j] == 0) {
             return 1;
         }
-
-        if(grid[i][j] == 0) {
-            return 1;
-        }
-
 
         if(grid[i][j] == -1) {
             return 0;
