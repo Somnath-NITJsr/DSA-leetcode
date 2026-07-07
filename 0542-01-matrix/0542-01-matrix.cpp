@@ -1,50 +1,53 @@
 class Solution {
 public:
     typedef pair<int, int> P;
-    vector<vector<int>> directions {{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
+    vector<vector<int>> directions{{0, 1}, {1, 0}, {-1, 0}, {0, -1}};
 
-    vector<vector<int>> updateMatrix(vector<vector<int>>& isWater) {
-        int m = isWater.size();
-        int n = isWater[0].size();
+    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
+        int m = mat.size();
+        int n = mat[0].size();
 
-        vector<vector<int>> height(m, vector<int>(n, -1));
-        queue<P> que;
+        // declare the result vector with all 0s
+        vector<vector<int>> result(m, vector<int>(n, -1));
 
-        for(int i=0; i<m; i++) {
-            for(int j=0; j<n; j++) {
-                if(isWater[i][j] == 0) { 
-                    height[i][j] = 0; // this is a source for bfs
-                    que.push({i, j});
+        // declare the queue
+        queue<P> q;
+
+        // find the coordinates of all the 0s from the mat
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (mat[i][j] == 0) {
+                    result[i][j] = 0;
+                    q.push({i, j});
                 }
             }
         }
 
+        // check if the new coordinates are safe
         auto isSafe = [&](int x, int y) {
             return x >= 0 && x < m && y >= 0 && y < n;
         };
 
-        while(!que.empty()) {
+        // hit the bfs from that 0s
+        while (!q.empty()) {
 
-            int N = que.size();
+            P curr = q.front();
+            q.pop();
 
-            while(N--) {
-                auto& curr = que.front();
-                int i      = curr.first;
-                int j      = curr.second;
+            int x = curr.first;
+            int y = curr.second;
 
-                que.pop();
-                for(auto& dir : directions) {
-                    int i_ = i + dir[0];
-                    int j_ = j + dir[1];
+            for (auto& dir : directions) {
 
-                    if(isSafe(i_, j_) && height[i_][j_] == -1) {
-                        height[i_][j_] = height[i][j] + 1;
-                        que.push({i_, j_});
-                    }
+                int nx = x + dir[0];
+                int ny = y + dir[1];
+
+                if (isSafe(nx, ny) && result[nx][ny] == -1) {
+                    result[nx][ny] = result[x][y] + 1;
+                    q.push({nx, ny});
                 }
-
             }
         }
-        return height;
+        return result;
     }
 };
