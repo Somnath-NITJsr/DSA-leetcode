@@ -14,6 +14,7 @@
 | [0875-koko-eating-bananas](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0994-rotting-oranges](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -62,6 +63,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Breadth-First Search
@@ -72,6 +74,7 @@
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [0994-rotting-oranges](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -100,6 +103,7 @@
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
@@ -107,6 +111,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## String
