@@ -8,6 +8,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -62,6 +63,7 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -70,6 +72,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -101,6 +104,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
