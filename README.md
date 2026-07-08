@@ -68,6 +68,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0814-binary-tree-pruning](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -167,6 +168,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0814-binary-tree-pruning](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
@@ -180,6 +182,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0814-binary-tree-pruning](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Divide and Conquer
