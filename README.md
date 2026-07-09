@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0200-number-of-islands](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -63,6 +64,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -76,6 +78,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
@@ -110,6 +113,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -122,6 +126,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
