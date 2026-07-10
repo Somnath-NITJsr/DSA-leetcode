@@ -15,6 +15,8 @@ public:
         inOrder(root->right, s);
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
+
+        // to optimise the space, we used the string, otherwise vector can be used
         string s1 = "";
         string s2 = "";
 
