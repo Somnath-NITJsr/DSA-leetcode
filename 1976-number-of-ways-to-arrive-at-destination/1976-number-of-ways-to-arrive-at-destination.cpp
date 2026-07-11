@@ -24,6 +24,8 @@ public:
 
         // the src to src cost is 0
         result[0] = 0;
+        
+        // to reach 0th node is 1 way
         ways[0]   = 1;
 
 
@@ -34,36 +36,32 @@ public:
 
         while(!pq.empty()) {
 
-            int N = pq.size();
+            auto it = pq.top();
+            pq.pop();
 
-            while(N--) {
+            long long cost = it.first;
+            int node       = it.second;
 
-                auto it = pq.top();
-                pq.pop();
+            if(cost > result[node]) continue;
 
-                long long cost = it.first;
-                int node       = it.second;
+            for(auto& vec: adj[node]) {
 
-                if(cost > result[node]) continue;
+                int adjNode = vec.first;
+                int adjCost = vec.second;
+                
+                // when we got a low cost than the prev, so we also got a path(way)
+                if(cost + adjCost < result[adjNode]) {
 
-                for(auto& vec: adj[node]) {
+                    result[adjNode] = adjCost + cost;
+                    ways[adjNode]   = ways[node];
+                    pq.push({result[adjNode], adjNode});
 
-                    int adjNode = vec.first;
-                    int adjCost = vec.second;
-
-
-                    if(cost + adjCost < result[adjNode]) {
-
-                        result[adjNode] = adjCost + cost;
-                        ways[adjNode]   = ways[node];
-                        pq.push({result[adjNode], adjNode});
-
-                    } else if(cost + adjCost == result[adjNode]) {
-                        ways[adjNode] = (ways[adjNode] + ways[node]) % MOD;
-                    }
+                } else if(cost + adjCost == result[adjNode]) {
+                    ways[adjNode] = (ways[adjNode] + ways[node]) % MOD;
                 }
             }
         }
+        // to reach the dest, 
         return ways[n-1];        
     }
 };
