@@ -79,6 +79,7 @@
 | [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Graph Theory
@@ -107,6 +109,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Heap (Priority Queue)
@@ -115,6 +118,7 @@
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -122,6 +126,7 @@
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3123-find-edges-in-shortest-paths](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
