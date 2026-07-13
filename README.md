@@ -80,6 +80,7 @@
 | [0814-binary-tree-pruning](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
@@ -204,6 +205,7 @@
 | [0814-binary-tree-pruning](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Dynamic Programming
@@ -224,6 +226,7 @@
 | [0814-binary-tree-pruning](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
