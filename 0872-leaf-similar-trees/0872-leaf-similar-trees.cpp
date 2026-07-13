@@ -1,27 +1,28 @@
 class Solution {
 public: 
-    void traverseTree(TreeNode* root, string& s) {
+    void traverseTree(TreeNode* root, vector<int>& v) {
         if(!root) {
             return;
         }
 
         if(!root->left && !root->right) {
-            s += to_string(root->val) + "#";
+            v.push_back(root->val);
             return;
         }
 
-        traverseTree(root->left, s);
-        traverseTree(root->right, s);
+        traverseTree(root->left, v);
+        traverseTree(root->right, v);
         return;
     }
     bool leafSimilar(TreeNode* root1, TreeNode* root2) {
-        // we can use vector , but using the string optimises the space.
-        string s1 = "";
-        string s2 = "";
 
-        traverseTree(root1, s1);
-        traverseTree(root2, s2);
+        // using vector is more cleaner, type-safe and avoids the overhead of converting numbers to text.
+        vector<int> v1;
+        vector<int> v2;
 
-        return s1 == s2;
+        traverseTree(root1, v1);
+        traverseTree(root2, v2);
+
+        return v1 == v2;
     }
 };
