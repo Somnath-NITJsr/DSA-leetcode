@@ -1,34 +1,51 @@
 class Solution {
 public:
-    int maxDiff;
+    // int maxDiff;
 
-    void findMaxDiffUtil(TreeNode* root, TreeNode* child) {
-        if(!root || !child) {
-            return;
-        }
+    // void findMaxDiffUtil(TreeNode* root, TreeNode* child) {
+    //     if(!root || !child) {
+    //         return;
+    //     }
 
-        maxDiff = max(maxDiff, abs(child->val - root->val));
+    //     maxDiff = max(maxDiff, abs(child->val - root->val));
 
-        findMaxDiffUtil(root, child->left);
-        findMaxDiffUtil(root, child->right);
-    }
+    //     findMaxDiffUtil(root, child->left);
+    //     findMaxDiffUtil(root, child->right);
+    // }
 
-    void findMaxDiff(TreeNode* root) {
+    // void findMaxDiff(TreeNode* root) {
+    //     if(!root) {
+    //         return;
+    //     }
+
+
+    //     findMaxDiffUtil(root, root->left);
+    //     findMaxDiffUtil(root, root->right);
+
+    //     findMaxDiff(root->left);
+    //     findMaxDiff(root->right);
+    // }
+
+    int findMaxDiff(TreeNode* root, int maxV, int minV) {
         if(!root) {
-            return;
+            return abs(maxV - minV);
         }
 
+        maxV = max(maxV, root->val);
+        minV = min(minV, root->val);
 
-        findMaxDiffUtil(root, root->left);
-        findMaxDiffUtil(root, root->right);
+        int l = findMaxDiff(root->left, maxV, minV);
+        int r = findMaxDiff(root->right, maxV, minV);
 
-        findMaxDiff(root->left);
-        findMaxDiff(root->right);
+        return max(l, r);
     }
+    
     int maxAncestorDiff(TreeNode* root) {
-        maxDiff = -1;
+        // maxDiff = -1;
 
-        findMaxDiff(root);
-        return maxDiff;
+        // findMaxDiff(root);
+        // return maxDiff;
+
+        return findMaxDiff(root, root->val, root->val);
     }
 };
