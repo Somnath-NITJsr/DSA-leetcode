@@ -67,6 +67,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -94,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0112-path-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -205,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
@@ -232,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
