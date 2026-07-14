@@ -77,6 +77,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0743-network-delay-time](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -176,6 +177,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Math
@@ -211,6 +213,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -237,6 +240,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0814-binary-tree-pruning](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0814-binary-tree-pruning/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
