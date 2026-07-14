@@ -70,6 +70,7 @@
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -190,6 +191,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@
 | [0112-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
@@ -226,6 +229,7 @@
 | [0112-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0144-binary-tree-preorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0623-add-one-row-to-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0623-add-one-row-to-tree/) | Medium |
