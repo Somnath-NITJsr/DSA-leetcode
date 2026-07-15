@@ -90,6 +90,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
@@ -228,6 +229,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -235,6 +237,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -258,6 +261,7 @@
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
