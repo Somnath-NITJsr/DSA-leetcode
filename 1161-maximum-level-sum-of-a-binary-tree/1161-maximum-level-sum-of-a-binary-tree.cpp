@@ -1,11 +1,42 @@
 class Solution {
 public:
+    void DFS(TreeNode* root, map<int, int>& mp, int level) {
+        if(!root) {
+            return;
+        }
+
+        mp[level] += root->val;
+
+        DFS(root->left, mp, level+1);
+        DFS(root->right, mp, level+1);
+    }
     int maxLevelSum(TreeNode* root) {
 
         if(!root) {
             return 0;
         }
 
+        map<int, int> mp;
+
+        DFS(root, mp, 1);
+
+        int resultLevel = 1;
+        int maxSUM      = INT_MIN;
+
+        for(auto& it: mp) {
+            int level = it.first;
+            int sum   = it.second;
+
+            if(sum > maxSUM) {
+                maxSUM      = sum;
+                resultLevel = level;
+            }
+        }
+
+        return resultLevel;
+
+        /*
+        // BFS
         queue<TreeNode* > q;
         q.push(root);
 
@@ -40,5 +71,6 @@ public:
             level++;
         }
         return ans;
+        */
     }
 };
