@@ -144,6 +144,7 @@
 | [0778-swim-in-rising-water](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3123-find-edges-in-shortest-paths](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3123-find-edges-in-shortest-paths/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Shortest Path
@@ -198,6 +199,7 @@
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -298,4 +300,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->
