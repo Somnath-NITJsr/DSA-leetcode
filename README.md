@@ -181,6 +181,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 ## Greedy
@@ -192,6 +193,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
