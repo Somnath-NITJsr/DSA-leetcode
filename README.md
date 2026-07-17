@@ -22,6 +22,7 @@
 | [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -193,6 +194,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
+| [1207-unique-number-of-occurrences](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Math
