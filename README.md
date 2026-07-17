@@ -32,6 +32,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Two Pointers
@@ -168,6 +169,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -200,6 +202,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -308,4 +311,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 <!---LeetCode Topics End-->
