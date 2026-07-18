@@ -34,6 +34,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -205,6 +206,7 @@
 | [2336-smallest-number-in-infinite-set](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -322,6 +324,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
