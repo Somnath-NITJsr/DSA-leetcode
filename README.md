@@ -332,6 +332,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
@@ -356,4 +357,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
