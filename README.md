@@ -240,6 +240,7 @@
 | [0101-symmetric-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
@@ -275,6 +276,7 @@
 | [0101-symmetric-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
@@ -299,6 +301,7 @@
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +331,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0061-rotate-list/) | Medium |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
@@ -341,4 +345,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
