@@ -47,6 +47,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -326,6 +327,7 @@
 | [0061-rotate-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
