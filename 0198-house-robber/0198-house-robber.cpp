@@ -17,9 +17,24 @@ public:
     int rob(vector<int>& nums) {
         int n = nums.size();
 
-        int t[101];
-        memset(t, -1, sizeof(t));
+        vector<int> t(n+1);
+        // base cases
+        t[0] = 0;
+        t[1] = nums[0];
 
-        return solve(nums, 0, t, n);
+        for(int i=2; i<=n; i++) {
+            int steal = t[i-2] + nums[i-1];
+            int skip  = t[i-1];
+
+            t[i] = max(steal, skip);
+        }
+
+        return t[n];
+        
+
+        // int t[101];
+        // memset(t, -1, sizeof(t));
+
+        // return solve(nums, 0, t, n);
     }
 };
