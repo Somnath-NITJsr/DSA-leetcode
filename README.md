@@ -33,6 +33,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -278,6 +279,7 @@
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
