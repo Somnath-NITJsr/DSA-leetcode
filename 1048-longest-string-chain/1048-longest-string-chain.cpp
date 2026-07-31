@@ -51,8 +51,23 @@ public:
 
         sort(begin(words), end(words), myFun);
 
-        vector<vector<long>> t(n+1, vector<long>(n+1, -1));
+        vector<int> t(n+1, 1);
+        int maxLIS = 1;
 
-        return solve(words, 0, -1, n, t);
+        for(int i=0; i<n; i++) {
+            
+            for(int j=0; j<i; j++) {
+
+                if(checkPred(words[j], words[i])) {
+                    t[i]   = max(t[i], t[j] + 1);
+                    maxLIS = max(maxLIS, t[i]);
+                }
+            }
+        }
+        return maxLIS;
+
+        // vector<vector<long>> t(n+1, vector<long>(n+1, -1));
+
+        // return solve(words, 0, -1, n, t);
     }
 };
