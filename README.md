@@ -206,6 +206,7 @@
 | [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -295,6 +296,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
