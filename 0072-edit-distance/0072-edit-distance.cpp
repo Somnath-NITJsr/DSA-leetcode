@@ -1,27 +1,24 @@
 class Solution {
 public:
-    int solve(const string& s1, const string& s2, int i, int j, int& m, int& n, vector<vector<int>>& t) {
-        if (i == m) {
-            return n - j;
-        }
-        if (j == n) {
-            return m - i;
+    int solve(const string& s1, const string& s2, int m, int n, vector<vector<int>>& t) {
+        if (m == 0 || n == 0) {
+            return m + n;
         }
         
-        if(t[i][j] != -1) {
-            return t[i][j];
+        if(t[m][n] != -1) {
+            return t[m][n];
         }
 
-        if(s1[i] == s2[j]) {
-            return solve(s1, s2, i+1, j+1, m, n, t);
+        if(s1[m-1] == s2[n-1]) {
+            return solve(s1, s2, m-1, n-1, t);
         }
 
-        int insert  = 1 + solve(s1, s2, i+1, j, m, n, t);
-        int delete_ = 1 + solve(s1, s2, i, j+1, m, n, t);
-        int replace = 1 + solve(s1, s2, i+1, j+1, m , n, t);
+        int insert  = 1 + solve(s1, s2, m-1, n, t);
+        int delete_ = 1 + solve(s1, s2, m, n-1, t);
+        int replace = 1 + solve(s1, s2, m-1 , n-1, t);
 
 
-        return t[i][j] = min({insert, delete_, replace});
+        return t[m][n] = min({insert, delete_, replace});
     }
     int minDistance(string word1, string word2) {
         int m = word1.size();
@@ -29,6 +26,6 @@ public:
 
         vector<vector<int>> t(m+1, vector<int>(n+1, -1));
 
-        return solve(word1, word2, 0, 0, m, n, t);
+        return solve(word1, word2, m, n, t);
     }
 };
