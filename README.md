@@ -401,4 +401,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 <!---LeetCode Topics End-->
