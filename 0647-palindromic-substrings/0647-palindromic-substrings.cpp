@@ -18,11 +18,32 @@ public:
     }
     int countSubstrings(string s) {
         int n = s.length();
+        int count = 0;
+        // Capturing [&] lets you use s and n directly:
+        auto checkPal = [&](int i, int j) {
+
+            while(i >= 0 && j < n && s[i] == s[j]) {
+                count++;
+                i--;
+                j++;
+            }
+
+        };
+
+        for(int i=0; i<n; i++) {
+            // we don't need to pass the s, i as we are using the [&]..
+            checkPal(i, i);
+            checkPal(i, i+1);
+        }
+
+
+        return count;
+        /* 
+         BLUE PRINT
+
 
         vector<vector<bool>> t(n, vector<bool>(n, false));
-
         int count = 0;
-
         for(int L=1; L<=n; L++) {
 
             for(int i=0; i+L-1<n; i++) {
@@ -44,6 +65,8 @@ public:
         }
 
         return count;
+
+        */
 
         // int count = 0;
         // vector<vector<int>> t(n+1, vector<int>(n+1, -1));
