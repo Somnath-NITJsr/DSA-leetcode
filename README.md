@@ -47,6 +47,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -203,6 +204,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0072-edit-distance](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
@@ -290,6 +292,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0070-climbing-stairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -408,4 +411,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
