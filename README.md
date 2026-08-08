@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0001-two-sum/) | Easy |
+| [0016-3sum-closest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -48,6 +49,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0016-3sum-closest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -80,6 +82,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
