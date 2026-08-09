@@ -45,6 +45,7 @@
 | [1765-map-of-highest-peak](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -70,6 +71,7 @@
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -393,6 +395,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Linked List
