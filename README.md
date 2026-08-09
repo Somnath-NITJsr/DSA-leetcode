@@ -13,6 +13,7 @@
 | [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -236,6 +238,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 | [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0652-find-duplicate-subtrees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -355,6 +358,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -367,6 +371,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -439,4 +444,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0075-sort-colors/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
