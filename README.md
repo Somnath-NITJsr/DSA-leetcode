@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0001-two-sum/) | Easy |
 | [0016-3sum-closest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -58,6 +59,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0016-3sum-closest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
