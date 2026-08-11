@@ -26,6 +26,7 @@
 | [0368-largest-divisible-subset](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0704-binary-search](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -251,6 +252,7 @@
 | [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1110-delete-nodes-and-return-forest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1110-delete-nodes-and-return-forest/) | Medium |
@@ -466,4 +468,8 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0229-majority-element-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
