@@ -22,6 +22,7 @@
 | [0213-house-robber-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
@@ -66,6 +67,7 @@
 | [0075-sort-colors](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -82,6 +84,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -472,4 +475,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
