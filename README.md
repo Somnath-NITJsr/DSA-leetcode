@@ -239,6 +239,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
@@ -296,6 +297,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 ## Monotonic Stack
@@ -501,4 +503,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
