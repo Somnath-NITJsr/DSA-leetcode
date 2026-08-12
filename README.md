@@ -24,6 +24,7 @@
 | [0213-house-robber-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0268-missing-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/0704-binary-search/) | Easy |
@@ -107,6 +109,7 @@
 | [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
@@ -259,6 +262,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0652-find-duplicate-subtrees](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0652-find-duplicate-subtrees/) | Medium |
@@ -276,6 +280,7 @@
 | [0002-add-two-numbers](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0070-climbing-stairs/) | Easy |
+| [0268-missing-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -484,6 +489,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0268-missing-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
