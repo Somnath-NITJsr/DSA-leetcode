@@ -16,6 +16,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
@@ -337,6 +338,7 @@
 | [0070-climbing-stairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
