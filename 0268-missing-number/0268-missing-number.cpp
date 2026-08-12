@@ -3,15 +3,22 @@ public:
     int missingNumber(vector<int>& nums) {
         int n = nums.size();
 
-        sort(begin(nums), end(nums));
+        long long sum  = accumulate(begin(nums), end(nums), 0LL);
 
-        for(int i=0; i<n; i++) {
+        long long nSum = n*(n+1)/2;
 
-            if(nums[i] != i) {
-                return i;
-            }
-        }
+        return nSum - sum;
+
+
+        // sort(begin(nums), end(nums));
+
+        // for(int i=0; i<n; i++) {
+
+        //     if(nums[i] != i) {
+        //         return i;
+        //     }
+        // }
         
-        return n;
+        // return n;
     }
 };
