@@ -5,6 +5,13 @@ public:
         unordered_map<char, char> mp1;
         unordered_map<char, char> mp2;
 
+
+        /*
+            two maps for inter-mapping of each character from s, t
+            characters of s to characters of t and vice-versa.
+        */
+
+
         int n = s.length();
 
         for(int i=0; i<n; i++) {
