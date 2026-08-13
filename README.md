@@ -242,6 +242,7 @@
 | [0020-valid-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -266,6 +267,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0229-majority-element-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0290-word-pattern](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0290-word-pattern/) | Easy |
