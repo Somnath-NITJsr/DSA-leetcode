@@ -250,11 +250,13 @@
 | [1092-shortest-common-supersequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@
 | [0070-climbing-stairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0368-largest-divisible-subset/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
 ## Combinatorics
