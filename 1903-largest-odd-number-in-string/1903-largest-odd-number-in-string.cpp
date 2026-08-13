@@ -5,7 +5,7 @@ public:
         int i = n - 1;;
         for(; i >= 0; i--) {
 
-            if(num[i] % 2 != 0) {
+            if(num[i] & 1) {
                 break;
             }
         }
