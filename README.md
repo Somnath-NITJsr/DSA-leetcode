@@ -246,6 +246,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [0796-rotate-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -510,4 +511,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
