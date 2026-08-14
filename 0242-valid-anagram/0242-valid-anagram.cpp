@@ -1,30 +1,27 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int n = s.length();
-        int m = t.length();
 
-        sort(begin(s), end(s));
-        sort(begin(t), end(t));
+        vector<int> count(26, 0);
 
-        return s == t;
+        for(char& ch: s) {
+            count[ch - 'a']++;
+        }
 
+        for(char& ch: t) {
+            count[ch - 'a']--;
+        }
 
-        // if(m != n) {
-        //     return false;
-        // }
+        bool allZeros = all_of(begin(count), end(count), [](int element) {
+            return element == 0;
+        });
 
-        // string temp = s + t;
+        return allZeros;
+        
+        // sort(begin(s), end(s));
+        // sort(begin(t), end(t));
 
-        // for(int i=0; i<n; i++) {
+        // return s == t;
 
-        //     string check = temp.substr(i, n);
-
-        //     if(check == t) {
-        //         return true;
-        //     }
-        // }
-
-        // return false;
     }
 };
