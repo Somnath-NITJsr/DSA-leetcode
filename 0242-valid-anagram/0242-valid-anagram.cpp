@@ -7,22 +7,24 @@ public:
         sort(begin(s), end(s));
         sort(begin(t), end(t));
 
+        return s == t;
 
-        if(m != n) {
-            return false;
-        }
 
-        string temp = s + t;
+        // if(m != n) {
+        //     return false;
+        // }
 
-        for(int i=0; i<n; i++) {
+        // string temp = s + t;
 
-            string check = temp.substr(i, n);
+        // for(int i=0; i<n; i++) {
 
-            if(check == t) {
-                return true;
-            }
-        }
+        //     string check = temp.substr(i, n);
 
-        return false;
+        //     if(check == t) {
+        //         return true;
+        //     }
+        // }
+
+        // return false;
     }
 };
