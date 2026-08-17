@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0048-rotate-image](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0051-n-queens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0075-sort-colors/) | Medium |
@@ -414,6 +415,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0078-subsets/) | Medium |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Topological Sort
@@ -535,4 +537,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
