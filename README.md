@@ -16,6 +16,7 @@
 | [0054-spiral-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -129,6 +130,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -222,6 +224,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0079-word-search](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0463-island-perimeter/) | Easy |
@@ -251,6 +254,7 @@
 | [0020-valid-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0079-word-search/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -426,6 +430,7 @@
 | [0051-n-queens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
