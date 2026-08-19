@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0016-3sum-closest/) | Medium |
+| [0047-permutations-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0075-sort-colors](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0169-majority-element/) | Easy |
@@ -420,6 +422,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0051-n-queens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0078-subsets/) | Medium |
