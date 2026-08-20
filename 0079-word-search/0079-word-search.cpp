@@ -18,9 +18,9 @@ public:
 
 
 
-        // mark visit
         char temp = board[i][j];
 
+        // mark visit
         board[i][j] = '$';
 
 
