@@ -1,21 +1,23 @@
 class Solution {
 public:
-    void solve(vector<int>& nums, int i, int& n, vector<int>& temp, vector<vector<int>>& result) {
+    void getSubsets(vector<int>& nums, int i, vector<int>& temp, vector<vector<int>>& result) {
 
-        if(i > n) {
-            return;
-        }
-
-        if(i == n) {
+        // base case
+        if(i == nums.size()) {
             result.push_back(temp);
             return;
         }
 
+        // take
         temp.push_back(nums[i]);
-        solve(nums, i+1, n, temp, result);
+
+        // explore
+        getSubsets(nums, i+1, temp, result);
         temp.pop_back();
 
-        solve(nums, i+1, n, temp, result);
+        // skip
+        getSubsets(nums, i+1, temp, result);
+
     }
     vector<vector<int>> subsets(vector<int>& nums) {
         int n = nums.size();
@@ -23,7 +25,8 @@ public:
         vector<int> temp;
         vector<vector<int>> result;
 
-        solve(nums, 0, n, temp, result);
+        getSubsets(nums, 0, temp, result);
+
         return result;
     }
 };
