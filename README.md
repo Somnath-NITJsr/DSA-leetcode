@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0039-combination-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0047-permutations-ii/) | Medium |
@@ -427,6 +428,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0047-permutations-ii/) | Medium |
