@@ -18,6 +18,7 @@
 | [0078-subsets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0090-subsets-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
@@ -431,6 +432,7 @@
 | [0077-combinations](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0079-word-search/) | Medium |
+| [0090-subsets-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0113-path-sum-ii/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
@@ -529,6 +531,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0268-missing-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
