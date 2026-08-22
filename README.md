@@ -45,6 +45,7 @@
 | [0704-binary-search](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/0704-binary-search/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0860-lemonade-change](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0994-rotting-oranges](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -280,6 +281,7 @@
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0860-lemonade-change](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
