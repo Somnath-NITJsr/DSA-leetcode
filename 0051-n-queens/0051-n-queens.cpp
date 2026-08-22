@@ -1,32 +1,34 @@
 class Solution {
 public:
-    void solve(vector<string>& board, int row, int& n, vector<vector<string>>& result) {
+    void solveQueens(vector<string>& board, int row, int& n, vector<vector<string>>& result) {
 
         if(row >= n) {
             result.push_back(board);
             return;
         }
+        
 
-        auto isSafe = [&](int& col) {
+        // here we are checking for the particular column
+        auto isSafe = [&](int col) {
 
             // check upward
-            for(int i=row-1; i>=0; i--) {
+            for(int i = row-1; i >= 0; i--) {
 
                 if(board[i][col] == 'Q') {
                     return false;
                 }
             }
 
-            // check left diagonal
-            for(int i=row-1, j=col-1; i>=0 && j>=0; i--, j--) {
+            // check diagonal left
+            for(int i=row-1, j=col-1; i >= 0 && j >= 0; i--, j--) {
 
                 if(board[i][j] == 'Q') {
                     return false;
                 }
             }
 
-            // check right diagonal
-            for(int i=row-1, j=col+1; i>=0 && j<n; i--, j++) {
+            // check diagonal right
+            for(int i=row-1, j=col+1; i >= 0 && j < n; i--, j++) {
 
                 if(board[i][j] == 'Q') {
                     return false;
@@ -38,25 +40,31 @@ public:
         };
 
 
-        for(int col=0; col<n; col++) {
-
+        // check for the col, where we can place the Queen
+        for(int col = 0; col < n; col++) {
+            
+            // if the col is safe for placing next queen then we can proceed
             if(isSafe(col)) {
-
-                board[row][col] = 'Q';
                 
-                solve(board, row+1, n, result);
+                // do
+                board[row][col] = 'Q';
 
+                // explore
+                solveQueens(board, row + 1, n, result);
+
+                // undo
                 board[row][col] = '.';
             }
         }
+
     }
     vector<vector<string>> solveNQueens(int n) {
-        vector<string> board(n, string(n, '.'));
-        // {". . .", ". . . ", ". . ." }
-
         vector<vector<string>> result;
 
-        solve(board, 0, n, result);
+        vector<string> board(n, string(n, '.'));
+
+
+        solveQueens(board, 0, n, result); // row = 0
 
         return result;
     }
