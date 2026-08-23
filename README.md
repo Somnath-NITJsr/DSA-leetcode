@@ -10,6 +10,7 @@
 | [0031-next-permutation](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0045-jump-game-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0048-rotate-image/) | Medium |
@@ -280,6 +281,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0455-assign-cookies](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -374,6 +376,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0045-jump-game-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0070-climbing-stairs/) | Easy |
