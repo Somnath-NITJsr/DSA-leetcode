@@ -21,8 +21,23 @@ public:
     }
     bool canJump(vector<int>& nums) {
         int n = nums.size();
-        vector<int> t(n, -1);
 
-        return getJump(nums, 0, n, t);
+        // New Approach
+        int maxReachable = nums[0];
+
+        for(int i=1; i<n; i++) {
+
+            if(i > maxReachable) {
+                return false;
+            }
+
+            maxReachable = max(maxReachable, nums[i] + i);
+        }
+
+        return true;
+
+        // vector<int> t(n, -1);
+        // return getJump(nums, 0, n, t);
+
     }
 };
