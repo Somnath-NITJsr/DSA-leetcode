@@ -26,6 +26,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0130-surrounded-regions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0130-surrounded-regions/) | Medium |
+| [0135-candy](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0135-candy/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -283,6 +284,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0860-lemonade-change](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0860-lemonade-change/) | Easy |
