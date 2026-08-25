@@ -66,6 +66,7 @@
 | [1765-map-of-highest-peak](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
@@ -135,6 +136,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
+| [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Depth-First Search
@@ -290,6 +292,7 @@
 | [0860-lemonade-change](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
