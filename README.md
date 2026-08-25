@@ -50,6 +50,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0860-lemonade-change/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0994-rotting-oranges](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1020-number-of-enclaves/) | Medium |
@@ -91,6 +92,7 @@
 | [0455-assign-cookies](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0948-bag-of-tokens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
@@ -132,6 +134,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [0948-bag-of-tokens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -290,6 +293,7 @@
 | [0455-assign-cookies](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0860-lemonade-change](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0860-lemonade-change/) | Easy |
+| [0948-bag-of-tokens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
