@@ -287,6 +287,7 @@
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1328-break-a-palindrome](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
@@ -301,6 +302,7 @@
 | [0881-boats-to-save-people](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0991-broken-calculator](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0991-broken-calculator/) | Medium |
+| [1328-break-a-palindrome](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1328-break-a-palindrome/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
