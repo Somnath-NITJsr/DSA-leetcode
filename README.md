@@ -66,6 +66,7 @@
 | [1631-path-with-minimum-effort](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1765-map-of-highest-peak/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -141,6 +142,7 @@
 | [1048-longest-string-chain](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1048-longest-string-chain/) | Medium |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1498-number-of-subsequences-that-satisfy-the-given-sum-condition/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -299,6 +301,7 @@
 | [0881-boats-to-save-people](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0991-broken-calculator](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0991-broken-calculator/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -595,4 +598,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/0881-boats-to-save-people/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
