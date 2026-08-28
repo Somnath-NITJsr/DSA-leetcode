@@ -72,6 +72,7 @@
 | [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2963-count-the-number-of-good-partitions](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2963-count-the-number-of-good-partitions/) | Hard |
@@ -146,6 +147,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Somnath-NITJsr/DSA--leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -307,6 +309,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1877-minimize-maximum-pair-sum-in-array/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2126-destroying-asteroids/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Somnath-NITJsr/DSA-leetcode/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
