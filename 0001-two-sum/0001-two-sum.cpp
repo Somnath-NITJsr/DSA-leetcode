@@ -1,58 +1,36 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
+        int n = nums.size();
 
-        // BRUTE FORCE-----------------------------------
-        
-       /*
-        vector<int>index;
-        for(int i=0;i<nums.size();i++)
-        {
-            for(int j=i+1;j<nums.size();j++)
-            {
-                if(nums[i]+nums[j]==target)
-                {
-                    index.push_back(i);
-                    index.push_back(j);
-                    break;
-                }
+        unordered_map<int, int> mp;
+
+        for(int i=0; i<n; i++) {
+
+            int rem = (target - nums[i]);
+
+            if(mp.find(rem) != mp.end()) {
+                return {mp[rem], i};
             }
+
+            mp[nums[i]] = i;
         }
-        return index;
-       */
 
+        return {};
 
-        // BETTER USING HASHING-------------------------
-        
-        unordered_map<int,int>mpp;
-        int n=nums.size();
-        for(int i=0;i<n;i++)
-        {
-            int first=nums[i];
-            int second=target-first;
-            if(mpp.find(second)!=mpp.end())
-            {
-                return {mpp[second],i}; //return YES;
-            }
-            mpp[first]=i;
-        }
-        return{-1,-1};  //  return NO;
-        
+        // int idx1 = -1;
+        // int idx2 = -1;
 
-        // For Optimal we can use two pointers approach but we have to sort the array
-        /*
-        int i=0;
-        int j=nums.size()-1;
-        while(i<j)
-        {
-            int sum=nums[i]+nums[j];
-            if(sum==target) return {i,j};
-            else if(sum<target) i++;
-            else j--;
-        }
-        return {-1,-1};
-        */
+        // for(int i=0; i<n; i++) {
+        //     for(int j=0; j<i; j++) {
+        //         if(nums[i] + nums[j] == target) {
+        //             idx1 = i;
+        //             idx2 = j;
+        //             break;
+        //         }
+        //     }
+        // }
 
-
+        // return {idx1, idx2};
     }
 };
